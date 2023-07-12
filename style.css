@@ -1,0 +1,9 @@
+body{
+    margin: 0 0 0 0;
+}
+.banner{
+    background-color:#FCEEF1;
+    padding: 80px 90px;
+    display: flex;
+}
+
