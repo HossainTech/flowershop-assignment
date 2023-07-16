@@ -52,10 +52,13 @@ body{
 .feature-description{
     font-weight: 200;
     color: darkgray;
+    
 }
 .feature-container {
     display: flex;
-    align-content: center;
+    width: 100%;
+    justify-content: center;
+     
     
 }
 .pink-tulip {
