@@ -9,7 +9,7 @@ body{
 }
 .banner-title{
     width: 500px;
-    font-size: 45px;
+    font-size: 55px;
 }
 .colum{
     width: 50%;
@@ -39,4 +39,48 @@ body{
 .banner-title{
     margin-top: 200px;
 }
+.our-features{
+    text-align: center;
+    padding: 80px 90px;
+    align-content: center;
+}
+.feature-title{
+    font-weight: bolder;
+    font-size: 40px;
+
+}
+.feature-description{
+    font-weight: 200;
+    color: darkgray;
+}
+.feature-container {
+    display: flex;
+    align-content: center;
+    
+}
+.pink-tulip {
+    background-color: #F1DDE7;
+}
+.box-flower{
+    border-radius: 200px 200px 0px 0px;
+    padding: 40px 35px 0px 35px;
+    
+}
+.box-flower img{
+    width: 200px;
+    height: 300px;
+}
+.blue-sunflower{
+    background: #D9EFF0;
+}
+.yellow-tulip{
+    background: #E3EBDB;
+}
+.feature-box a{
+    text-align: center;
+    color: gray;
+    font-weight: 700;
+}
+ 
+
 
